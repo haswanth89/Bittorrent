@@ -1,0 +1,161 @@
+Sun Dec 03 19:32:17 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 0
+Sun Dec 03 19:32:17 EST 2023 : Server: 1004 Started on Port Number :6005
+Sun Dec 03 19:32:17 EST 2023 : Peer 1004 has the preferred neighbors []
+Sun Dec 03 19:32:19 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:32:19 EST 2023 : Peer 1004 received not interested message from 1001
+Sun Dec 03 19:32:19 EST 2023 : Peer 1004 received not interested message from 1002
+Sun Dec 03 19:32:19 EST 2023 : Peer 1004 has downloaded the piece from 1003. Now the number of pieces it has is 1
+Sun Dec 03 19:32:19 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:32:19 EST 2023 : Peer 1004 has downloaded the piece from 1002. Now the number of pieces it has is 2
+Sun Dec 03 19:32:20 EST 2023 : Peer 1004 is choked by 1003
+Sun Dec 03 19:32:20 EST 2023 : Peer 1004 received not interested message from 1001
+Sun Dec 03 19:32:20 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:32:20 EST 2023 : Peer :1004 makes a connection to1005
+Sun Dec 03 19:32:20 EST 2023 : Peer 1004 received interested message from 1005
+Sun Dec 03 19:32:21 EST 2023 : Peer :1004 makes a connection to1006
+Sun Dec 03 19:32:21 EST 2023 : Peer 1004 received interested message from 1006
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 is unchoked by 1001
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 received have message from 1003
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 has downloaded the piece from 1001. Now the number of pieces it has is 3
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 received have message from 1002
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 received interested message from 1006
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 received interested message from 1002
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 received interested message from 1005
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 received interested message from 1003
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 has the preferred neighbors [1001, 1002, 1003]
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 received have message from 1003
+Sun Dec 03 19:32:22 EST 2023 : Peer 1004 received have message from 1002
+Sun Dec 03 19:32:24 EST 2023 : Peer 1004 received have message from 1006
+Sun Dec 03 19:32:24 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:32:24 EST 2023 : Peer 1004 received have message from 1005
+Sun Dec 03 19:32:24 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:32:24 EST 2023 : Peer 1004 received have message from 1005
+Sun Dec 03 19:32:24 EST 2023 : Peer 1004 received have message from 1006
+Sun Dec 03 19:32:24 EST 2023 : Peer 1004 is unchoked by 1005
+Sun Dec 03 19:32:24 EST 2023 : Peer 1004 has downloaded the piece from 1005. Now the number of pieces it has is 4
+Sun Dec 03 19:32:24 EST 2023 : Peer 1004 received interested message from 1006
+Sun Dec 03 19:32:24 EST 2023 : Peer 1004 received have message from 1006
+Sun Dec 03 19:32:27 EST 2023 : Peer 1004 received have message from 1002
+Sun Dec 03 19:32:27 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1006
+Sun Dec 03 19:32:27 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1005, 1006]
+Sun Dec 03 19:32:28 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:32:28 EST 2023 : Peer 1004 received have message from 1006
+Sun Dec 03 19:32:28 EST 2023 : Peer 1004 received have message from 1006
+Sun Dec 03 19:32:29 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:32:29 EST 2023 : Peer 1004 received have message from 1006
+Sun Dec 03 19:32:29 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:32:32 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:32:33 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:32:34 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:32:34 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:32:37 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:32:37 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:32:38 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:32:39 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:32:39 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:32:39 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:32:42 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:32:43 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:32:44 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:32:44 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:32:47 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:32:47 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:32:48 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:32:49 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:32:49 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:32:49 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:32:52 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:32:53 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:32:54 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:32:54 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:32:57 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:32:57 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:32:58 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:32:59 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:32:59 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:32:59 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:02 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:03 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:04 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:04 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:07 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:33:07 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:08 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:09 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:09 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:33:09 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:12 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:13 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:14 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:14 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:17 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:33:17 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:18 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:19 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:19 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:33:19 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:22 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:23 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:24 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:24 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:27 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:33:27 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:28 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:29 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:29 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:33:29 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:32 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:34 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:34 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:34 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:37 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:33:37 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:39 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:39 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:39 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:33:39 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:42 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:44 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:44 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:44 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:47 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:33:47 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:49 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:49 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:49 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:33:49 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:52 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:54 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:54 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:54 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:33:57 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:33:57 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:33:59 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:33:59 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:33:59 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:33:59 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:34:02 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:34:04 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:34:04 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:34:04 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:34:07 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:34:07 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:34:09 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:34:09 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:34:09 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:34:09 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:34:12 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:34:14 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:34:14 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:34:14 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:34:17 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
+Sun Dec 03 19:34:17 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:34:19 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:34:19 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:34:19 EST 2023 : Peer 1004 is unchoked by 1002
+Sun Dec 03 19:34:19 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:34:22 EST 2023 : Peer 1004 has the preferred neighbors [1002, 1003, 1006]
+Sun Dec 03 19:34:24 EST 2023 : Peer 1004 is choked by 1006
+Sun Dec 03 19:34:24 EST 2023 : Peer 1004 is unchoked by 1003
+Sun Dec 03 19:34:24 EST 2023 : Peer 1004 is choked by 1002
+Sun Dec 03 19:34:27 EST 2023 : Peer 1004 has the optimistically unchoked neighbor 1005
